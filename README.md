@@ -76,11 +76,10 @@
 </p>
 
 <p align="center">
-  <!-- Hàng 2 (Thay tên repo của bạn vào đây) -->
   <a href="https://github.com/Xuanhuy218972/leetcode-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xuanhuy218972&repo=TEN_REPO_3&theme=tokyonight&hide_border=true&title_color=FFB86C" alt="Repo 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xuanhuy218972&repo=leetcode-practice&theme=tokyonight&hide_border=true&title_color=FFB86C" alt="leet" />
   </a>
-  <a href="https://github.com/Xuanhuy218972/dieunb/simple-web-huy ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xuanhuy218972&repo=TEN_REPO_4&theme=tokyonight&hide_border=true&title_color=8BE9FD" alt="Repo 4" />
+  <a href="https://github.com/Xuanhuy218972/dieunb/simple-web-huy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dieunb&repo=simple-web-huy&theme=tokyonight&hide_border=true&title_color=8BE9FD" alt="simple" />
   </a>
 </p>
